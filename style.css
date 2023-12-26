@@ -1,0 +1,22 @@
+body {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: #999;
+}
+h1 {
+  color: #999;
+}
+h3 {
+  font-weight: bolder;
+  color: #555;
+}
+ul li:hover {
+  color: blue;
+}
+a:hover {
+  font-weight: bold;
+  font-size: 150%;
+  color: firebrick;
+}
+ol li:hover {
+  color: green;
+}
